@@ -6,3 +6,6 @@ In this project, I constructed a Matlab model of voltage- and time-dependent cur
 
 ## Decoding and ROC analysis (decoding-roc)
 In this project, I analyzed the responses of two MT neurons that were simultaneously recorded from a monkey performing a motion detection task. The goal of this project was to apply ROC analysis to decode neural responses. Specifically, I performed ROC neurometric analysis and ROC detect probability.  
+
+## Neural encoding (neural-encoding)
+In this project, I explore neural encoding by first computing various neural spike train statistics such as the autocorrelation functions and power spectra of binary representations of the spike train. I then compute measures of neural encoding. 
