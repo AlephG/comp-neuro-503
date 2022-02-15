@@ -15,3 +15,6 @@ In this project, I recover the temporal filter and static non-linearity from 1D 
 
 ## Supervised learning (supervised-learning)
 In this project, I explore supervised learning using a single-layer classifier. I also compute visual receptive field estimation using regression and then compare it with an estimate obtained using cross-correlation.
+
+## Unsupervised learning (unsupervised-learning)
+In this project, I explore the following unsupervised learning methods: k-means clustering and an associative network. I also explore spike-time dependent plasticity (STDP) as a way for neurons to sharpen responses, reduce latencies, enable predictive learning and cluster inputs according to temporal correlations.
