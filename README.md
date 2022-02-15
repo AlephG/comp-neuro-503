@@ -10,6 +10,6 @@ In this project, I analyzed the responses of two MT neurons that were simultaneo
 ## Neural encoding (neural-encoding)
 In this project, I explore neural encoding by first computing various neural spike train statistics such as the autocorrelation functions and power spectra of binary representations of the spike train. I then compute measures of neural encoding. 
 
-## Reverse correlation and visual receptive fields
+## Reverse correlation and visual receptive fields (visual-rf)
 
 In this project, I recover the temporal filter and static non-linearity from 1D and 3D temporal inputs to a neuron and its ouputs.  
