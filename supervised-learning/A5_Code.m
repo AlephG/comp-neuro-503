@@ -1,6 +1,5 @@
 %% Assignment 5: Supervised Learning
-% Solim Legris
-% Student ID: 260807111
+% Solim LeGris
 % PLEASE RUN ONE SECTION AT A TIME
 
 %% Part I: Single-layer classifier
