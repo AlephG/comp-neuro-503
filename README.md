@@ -12,4 +12,4 @@ In this project, I explore neural encoding by first computing various neural spi
 
 ## Reverse correlation and visual receptive fields
 
-In this project, I recover the temporal filter and non-linearity 
+In this project, I recover the temporal filter and static non-linearity from 1D and 3D temporal inputs to a neuron and its ouputs.  
